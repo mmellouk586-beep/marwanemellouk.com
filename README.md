@@ -2,5 +2,5 @@
 <h1>لقد فقدة جميع حساباتي التواصل الاجتماعي بسبب بريد الكتروني </h1>
 
 body {
-background color: #f0f0f0
+background-color😫
 }
